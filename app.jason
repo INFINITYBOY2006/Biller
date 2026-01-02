@@ -15,14 +15,14 @@
     },
     "ios": {
       "supportsTablet": false,
-      "bundleIdentifier": "app.rork.dashboard-tabs-app-lz68wdj"
+      "bundleIdentifier": "app.rork.dashboardtabsapplz68wdj"
     },
     "android": {
       "adaptiveIcon": {
         "foregroundImage": "./assets/images/adaptive-icon.png",
         "backgroundColor": "#ffffff"
       },
-      "package": "app.rork.dashboard_tabs_app_lz68wdj"
+      "package": "app.rork.dashboardtabsapplz68wdj"
     },
     "web": {
       "favicon": "./assets/images/favicon.png"
